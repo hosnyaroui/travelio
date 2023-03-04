@@ -22,7 +22,7 @@ const Navbar = () => {
 <a href='#' className="logo flex">
     <h1>
     <MdTravelExplore className="icon"/>
-    Link Voyages.</h1>
+    Travelio.</h1>
 </a>
 </div>
 

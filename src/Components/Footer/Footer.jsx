@@ -47,12 +47,12 @@ const Footer = () => {
   <div className="logoDiv">
     <a href="#" className='logo flex'>
     <MdOutlineTravelExplore className="icon" />
-    Link Voyages.
+    Travelio.
     </a>
   </div>
 
 <div data-aos="fade-up" className="footerParagraph">
-Avec Link Voyages, il n'a jamais été simple de vivre des moments inoubliables.
+Avec Travelio, il n'a jamais été simple de vivre des moments inoubliables.
 </div>
 
 <div data-aos="fade-up" className="footerSocials flex">
